@@ -1,0 +1,12 @@
+
+#EXTM3U
+#EXTINF:-1 tvg-name="PONTE D.LUIZ"
+https://lon.rtsp.me/NGJw3PLRXrGua2vxKvwQhg/1646931735/hls/bYTDANDA.m3u8?ip=188.37.216.66
+#EXTINF:-1 tvg-name="PONTE D.LUIZ l"
+https://lon.rtsp.me/o6UY8lhrRsrzI6LlIngpdw/1646931834/hls/bYTDANDA.m3u8?ip=188.37.216.66
+#EXTINF:-1 tvg-name="PONTE D.LUIz PORTO"
+https://lon.rtsp.me/U4-JQQfeZhVrXBCu2xsWAg/1646931889/hls/bYTDANDA.m3u8?ip=188.37.216.66
+#EXTINF:-1 tvg-name="PONTE"
+https://lon.rtsp.me/LLd_RyTWcUfj3dlZ5-9Bxg/1646931951/hls/bYTDANDA.m3u8?ip=188.37.216.66
+#EXTINF:-1 tvg-name="PONTE DO PORTO"
+https://lon.rtsp.me/KzbZOoyqvkJzSDwlEnK9sw/1646932038/hls/bYTDANDA.m3u8?ip=188.37.216.66
